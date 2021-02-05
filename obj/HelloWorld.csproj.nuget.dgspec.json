@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dpank\\Documents\\devops\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\dpank\\Documents\\GitHub\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dpank\\Documents\\devops\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\dpank\\Documents\\GitHub\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dpank\\Documents\\devops\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\dpank\\Documents\\GitHub\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\dpank\\Documents\\devops\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "C:\\Users\\dpank\\Documents\\GitHub\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\dpank\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dpank\\Documents\\devops\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\dpank\\Documents\\GitHub\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dpank\\AppData\\Roaming\\NuGet\\NuGet.Config",

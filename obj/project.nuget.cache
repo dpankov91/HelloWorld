@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4reIaR78k38bvjFWMezCBoZmpPidAusS+EH4LnYVFSu9mTaGjufsisOiTcoSHBzzWy1CZbonmqQvshD2CN3/OQ==",
+  "dgSpecHash": "QpG0+7he2u24RaCd2Ubt02ydoajKDTzHmE8EHdADzWKGwakrbTSZepdMl1yLtpujhodEOoYGd+TMcaf1FFw/og==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dpank\\Documents\\devops\\HelloWorld\\HelloWorld.csproj",
+  "projectFilePath": "C:\\Users\\dpank\\Documents\\GitHub\\HelloWorld\\HelloWorld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
