@@ -3,7 +3,7 @@ pipeline{
 	stages{
 		stage("Build"){
 			steps{
-			sh "dotnet build HelloWorld/HelloWorld.csproj"
+			sh "dotnet build HelloWorld.csproj"
 			}
 		}
 	}
